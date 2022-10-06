@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
-    "domain": "wassersport24.net",
-    "hostname": "https://wassersport24.net/",
-    "email": "wassersport24.net@surrealnetworks.io",
-    "organization": "wassersport24.net",
-    "logoText": "Wassersport24.net",
-    "title": "title",
-    "subline": "subline",
+    "configIsReady": true,
+    "domain": "outdoor-leuchten24.de",
+    "hostname": "https://www.outdoor-leuchten24.de/",
+    "email": "outdoor-leuchten24.desurrealnetworks.io",
+    "organization": "outdoor-leuchten24.de",
+    "logoText": "Outdoor-leuchten24.de",
+    "title": "Au\u00dfenleuchten",
+    "subline": "Der Online Shop f\u00fcr Au\u00dfenleuchten",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -14,9 +14,27 @@
     "numberOfProductsOnStartpage": 18,
     "numberMaximumProductsPerCategory": 100,
     "numberOfRelevantProduct": 12,
-    "popularProducts": [],
-    "winnerProducts": [],
-    "featuredCategories": [],
+    "popularProducts": [
+        "1109362",
+        "2803260",
+        "2158996",
+        "8951576",
+        "7150824",
+        "6488241"
+    ],
+    "winnerProducts": [
+        "2817781",
+        "6221568",
+        "8113987"
+    ],
+    "featuredCategories": [
+        "Solar-Deko",
+        "Au\u00dfenbeleuchtungssysteme",
+        "Solar-Hausnummern",
+        "Au\u00dfen-Dekoleuchten",
+        "Au\u00dfendeckenleuchten",
+        "Solar-Kugeln"
+    ],
     "socialMediaAccounts": [],
     "imageQuality": 90,
     "checklist": [
@@ -28,37 +46,33 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Au\u00dfenleuchten",
-        "featureText": "Your featured text goes here",
+        "featureText": "Die Au\u00dfenleuchten sind die perfekte Erg\u00e4nzung f\u00fcr Ihr Zuhause. Sie sorgen f\u00fcr eine angenehme Atmosph\u00e4re und sind eine gro\u00dfartige Erg\u00e4nzung zu Ihrer Einrichtung.",
         "index": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex",
+            "title": "Au\u00dfenleuchten - die beste Auswahl f\u00fcr Ihr Zuhause",
+            "metaDescription": "Au\u00dfenleuchten f\u00fcr Ihr Zuhause - kaufen Sie die besten Au\u00dfenleuchten bei uns im Shop und sorgen Sie f\u00fcr eine angenehme Beleuchtung in Ihrem Garten oder auf Ihrer Terrasse.",
+            "robots": "index, follow",
             "texts": [
                 {
-                    "title": "Title of a SEO Text",
-                    "text": "Text of a SEO Text"
-                },
-                {
-                    "title": "New title",
-                    "text": "new text"
+                    "title": "Au\u00dfenleuchten",
+                    "text": "Au\u00dfenleuchten sind ein wesentlicher Bestandteil der Beleuchtung von Geb\u00e4uden. Sie sorgen f\u00fcr eine ausreichende Beleuchtung der Au\u00dfenfl\u00e4chen und sind somit eine wichtige Sicherheitsma\u00dfnahme. Au\u00dfenleuchten k\u00f6nnen an der Fassade angebracht werden oder in den Boden eingelassen werden. Sie sorgen f\u00fcr eine ausreichende Beleuchtung der Au\u00dfenfl\u00e4chen und sind somit eine wichtige Sicherheitsma\u00dfnahme."
                 }
             ]
         },
         "shop": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Au\u00dfenleuchten Shop",
+            "metaDescription": "Im Shop findest du eine gro\u00dfe Auswahl an Au\u00dfenleuchten f\u00fcr jeden Geschmack. Ob klassisch oder modern, hier wirst du f\u00fcndig!",
+            "robots": "index, follow"
         },
         "hersteller": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Au\u00dfenleuchten-Hersteller: Die besten Marken f\u00fcr Ihr Zuhause",
+            "metaDescription": "Au\u00dfenleuchten-Hersteller: Finden Sie die besten Au\u00dfenleuchten-Hersteller und -Lieferanten in China. Wir produzieren hochwertige Au\u00dfenleuchten in unserer Fabrik.",
+            "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "Au\u00dfenleuchten: $PRODUKT",
+        "defaultMetaDescription": "Au\u00dfenleuchten von $HERSTELLER in gro\u00dfer Auswahl f\u00fcr jeden Bedarf. Ob f\u00fcr die Beleuchtung von $KATEGORIE oder anderen Bereichen, bei uns finden Sie die richtige Au\u00dfenleuchte.",
+        "defaultRobots": "index, follow",
         "products": [
             {
                 "sku": "5637909794",
@@ -72,9 +86,9 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "Au\u00dfenleuchten: $KATEGORIE f\u00fcr jeden Anlass",
+        "defaultMetaDescription": "Au\u00dfenleuchten f\u00fcr jeden Geschmack: Finden Sie Ihre neue Lieblingsleuchte f\u00fcr den Au\u00dfenbereich in unserer $KATEGORIE. Jetzt st\u00f6bern!",
+        "defaultRobots": "index, follow",
         "categories": [
             {
                 "key": "sporthosen",
@@ -100,8 +114,8 @@
     },
     "brandSeo": {
         "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultMetaDescription": "Au\u00dfenleuchten von $HERSTELLER sorgen f\u00fcr eine angenehme Beleuchtung im Freien. Ob f\u00fcr die Terrasse, den Garten oder den Eingangsbereich - hier findest du die passende Lampe.",
+        "defaultRobots": "index, follow",
         "brands": [
             {
                 "key": "palm",
@@ -118,26 +132,30 @@
         {
             "title": "Start",
             "linkTo": "/",
-            "linkTitle": "Wassersport",
+            "linkTitle": "Au\u00dfenleuchten",
             "publish": true
         },
         {
             "title": "Shop",
             "linkTo": "/shop/",
-            "linkTitle": "Wassersport Shop",
+            "linkTitle": "Au\u00dfenleuchten Shop",
             "publish": true
         },
         {
             "title": "Marken",
             "linkTo": "/marken/",
-            "linkTitle": "Wassersport Marken",
+            "linkTitle": "Au\u00dfenleuchten Marken",
             "publish": true
         },
         {
             "title": "Kontakt",
             "linkTo": "/kontakt/",
-            "linkTitle": "Wassersport Kontakt",
+            "linkTitle": "Kontakt",
             "publish": false
         }
-    ]
+    ],
+    "ai": {
+        "enabled": true,
+        "engine": 1
+    }
 }
