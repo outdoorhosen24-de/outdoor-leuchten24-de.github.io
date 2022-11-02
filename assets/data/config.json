@@ -1,12 +1,12 @@
 {
-    "configIsReady": true,
+    "configIsReady": false,
     "domain": "outdoor-leuchten24.de",
     "hostname": "https://www.outdoor-leuchten24.de/",
     "email": "outdoor-leuchten24.desurrealnetworks.io",
     "organization": "outdoor-leuchten24.de",
     "logoText": "Outdoor-leuchten24.de",
-    "title": "Au\u00dfenleuchten",
-    "subline": "Der Online Shop f\u00fcr Au\u00dfenleuchten",
+    "title": "Außenleuchten",
+    "subline": "Der Online Shop für Außenleuchten",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -29,10 +29,10 @@
     ],
     "featuredCategories": [
         "Solar-Deko",
-        "Au\u00dfenbeleuchtungssysteme",
+        "Außenbeleuchtungssysteme",
         "Solar-Hausnummern",
-        "Au\u00dfen-Dekoleuchten",
-        "Au\u00dfendeckenleuchten",
+        "Außen-Dekoleuchten",
+        "Außendeckenleuchten",
         "Solar-Kugeln"
     ],
     "socialMediaAccounts": [],
@@ -45,49 +45,49 @@
     ],
     "seo": {
         "htmlLang": "de",
-        "mainKeyword": "Au\u00dfenleuchten",
-        "featureText": "Die Au\u00dfenleuchten sind die perfekte Erg\u00e4nzung f\u00fcr Ihr Zuhause. Sie sorgen f\u00fcr eine angenehme Atmosph\u00e4re und sind eine gro\u00dfartige Erg\u00e4nzung zu Ihrer Einrichtung.",
+        "mainKeyword": "Außenleuchten",
+        "featureText": "Die Außenleuchten sind die perfekte Ergänzung für Ihr Zuhause. Sie sorgen für eine angenehme Atmosphäre und sind eine großartige Ergänzung zu Ihrer Einrichtung.",
         "index": {
-            "title": "Au\u00dfenleuchten - die beste Auswahl f\u00fcr Ihr Zuhause",
-            "metaDescription": "Au\u00dfenleuchten f\u00fcr Ihr Zuhause - kaufen Sie die besten Au\u00dfenleuchten bei uns im Shop und sorgen Sie f\u00fcr eine angenehme Beleuchtung in Ihrem Garten oder auf Ihrer Terrasse.",
+            "title": "Außenleuchten - die beste Auswahl für Ihr Zuhause",
+            "metaDescription": "Außenleuchten für Ihr Zuhause - kaufen Sie die besten Außenleuchten bei uns im Shop und sorgen Sie für eine angenehme Beleuchtung in Ihrem Garten oder auf Ihrer Terrasse.",
             "robots": "index, follow",
             "texts": [
                 {
-                    "title": "Au\u00dfenleuchten",
-                    "text": "Au\u00dfenleuchten sind ein wesentlicher Bestandteil der Beleuchtung von Geb\u00e4uden. Sie sorgen f\u00fcr eine ausreichende Beleuchtung der Au\u00dfenfl\u00e4chen und sind somit eine wichtige Sicherheitsma\u00dfnahme. Au\u00dfenleuchten k\u00f6nnen an der Fassade angebracht werden oder in den Boden eingelassen werden. Sie sorgen f\u00fcr eine ausreichende Beleuchtung der Au\u00dfenfl\u00e4chen und sind somit eine wichtige Sicherheitsma\u00dfnahme."
+                    "title": "Außenleuchten",
+                    "text": "Außenleuchten sind ein wesentlicher Bestandteil der Beleuchtung von Gebäuden. Sie sorgen für eine ausreichende Beleuchtung der Außenflächen und sind somit eine wichtige Sicherheitsmaßnahme. Außenleuchten können an der Fassade angebracht werden oder in den Boden eingelassen werden. Sie sorgen für eine ausreichende Beleuchtung der Außenflächen und sind somit eine wichtige Sicherheitsmaßnahme."
                 }
             ]
         },
         "shop": {
-            "title": "Au\u00dfenleuchten Shop",
-            "metaDescription": "Im Shop findest du eine gro\u00dfe Auswahl an Au\u00dfenleuchten f\u00fcr jeden Geschmack. Ob klassisch oder modern, hier wirst du f\u00fcndig!",
+            "title": "Außenleuchten Shop",
+            "metaDescription": "Im Shop findest du eine große Auswahl an Außenleuchten für jeden Geschmack. Ob klassisch oder modern, hier wirst du fündig!",
             "robots": "index, follow"
         },
         "hersteller": {
-            "title": "Au\u00dfenleuchten-Hersteller: Die besten Marken f\u00fcr Ihr Zuhause",
-            "metaDescription": "Au\u00dfenleuchten-Hersteller: Finden Sie die besten Au\u00dfenleuchten-Hersteller und -Lieferanten in China. Wir produzieren hochwertige Au\u00dfenleuchten in unserer Fabrik.",
+            "title": "Außenleuchten-Hersteller: Die besten Marken für Ihr Zuhause",
+            "metaDescription": "Außenleuchten-Hersteller: Finden Sie die besten Außenleuchten-Hersteller und -Lieferanten in China. Wir produzieren hochwertige Außenleuchten in unserer Fabrik.",
             "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "Au\u00dfenleuchten: $PRODUKT",
-        "defaultMetaDescription": "Au\u00dfenleuchten von $HERSTELLER in gro\u00dfer Auswahl f\u00fcr jeden Bedarf. Ob f\u00fcr die Beleuchtung von $KATEGORIE oder anderen Bereichen, bei uns finden Sie die richtige Au\u00dfenleuchte.",
+        "defaultTitle": "Außenleuchten: $PRODUKT",
+        "defaultMetaDescription": "Außenleuchten von $HERSTELLER in großer Auswahl für jeden Bedarf. Ob für die Beleuchtung von $KATEGORIE oder anderen Bereichen, bei uns finden Sie die richtige Außenleuchte.",
         "defaultRobots": "index, follow",
         "products": [
             {
                 "sku": "5637909794",
                 "name": "Ortovox PALA PANTS Kletterhose",
                 "seo": {
-                    "title": "Ortovox PALA PANTS Kletterhose g\u00fcnstig kaufen auf $DOMAIN",
-                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox g\u00fcnstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
+                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
                     "robots": "index, follow"
                 }
             }
         ]
     },
     "categorySeo": {
-        "defaultTitle": "Au\u00dfenleuchten: $KATEGORIE f\u00fcr jeden Anlass",
-        "defaultMetaDescription": "Au\u00dfenleuchten f\u00fcr jeden Geschmack: Finden Sie Ihre neue Lieblingsleuchte f\u00fcr den Au\u00dfenbereich in unserer $KATEGORIE. Jetzt st\u00f6bern!",
+        "defaultTitle": "Außenleuchten: $KATEGORIE für jeden Anlass",
+        "defaultMetaDescription": "Außenleuchten für jeden Geschmack: Finden Sie Ihre neue Lieblingsleuchte für den Außenbereich in unserer $KATEGORIE. Jetzt stöbern!",
         "defaultRobots": "index, follow",
         "categories": [
             {
@@ -95,8 +95,8 @@
                 "slug": "sporthosen",
                 "name": "Sporthosen",
                 "seo": {
-                    "title": "Sporthosen g\u00fcnstig kaufen",
-                    "metaDescription": "Alle Sporthosen im \u00dcberblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+                    "title": "Sporthosen günstig kaufen",
+                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
                     "robots": "index, follow",
                     "texts": [
                         {
@@ -114,15 +114,15 @@
     },
     "brandSeo": {
         "defaultTitle": "",
-        "defaultMetaDescription": "Au\u00dfenleuchten von $HERSTELLER sorgen f\u00fcr eine angenehme Beleuchtung im Freien. Ob f\u00fcr die Terrasse, den Garten oder den Eingangsbereich - hier findest du die passende Lampe.",
+        "defaultMetaDescription": "Außenleuchten von $HERSTELLER sorgen für eine angenehme Beleuchtung im Freien. Ob für die Terrasse, den Garten oder den Eingangsbereich - hier findest du die passende Lampe.",
         "defaultRobots": "index, follow",
         "brands": [
             {
                 "key": "palm",
                 "name": "Palm",
                 "seo": {
-                    "title": "Produkte von Palm g\u00fcnstig kaufen",
-                    "metaDescription": "Alle Produkte von Palm im \u00dcberblick. Produkte und Testsieger. Der Hersteller f\u00fcr Outdoor Produkte.",
+                    "title": "Produkte von Palm günstig kaufen",
+                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
                     "robots": "index, follow"
                 }
             }
@@ -132,19 +132,19 @@
         {
             "title": "Start",
             "linkTo": "/",
-            "linkTitle": "Au\u00dfenleuchten",
+            "linkTitle": "Außenleuchten",
             "publish": true
         },
         {
             "title": "Shop",
             "linkTo": "/shop/",
-            "linkTitle": "Au\u00dfenleuchten Shop",
+            "linkTitle": "Außenleuchten Shop",
             "publish": true
         },
         {
             "title": "Marken",
             "linkTo": "/marken/",
-            "linkTitle": "Au\u00dfenleuchten Marken",
+            "linkTitle": "Außenleuchten Marken",
             "publish": true
         },
         {
