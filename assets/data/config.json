@@ -1,11 +1,11 @@
 {
-    "configIsReady": false,
+    "configIsReady": true,
     "domain": "outdoor-leuchten24.de",
     "hostname": "https://www.outdoor-leuchten24.de/",
     "email": "outdoor-leuchten24.desurrealnetworks.io",
     "organization": "outdoor-leuchten24.de",
     "logoText": "Outdoor-leuchten24.de",
-    "title": "Außenleuchten",
+    "title": "Shop für Außenleuchten",
     "subline": "Der Online Shop für Außenleuchten",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
@@ -46,10 +46,10 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Außenleuchten",
-        "featureText": "Die Außenleuchten sind die perfekte Ergänzung für Ihr Zuhause. Sie sorgen für eine angenehme Atmosphäre und sind eine großartige Ergänzung zu Ihrer Einrichtung.",
+        "featureText": "Außenleuchten sind die perfekte Ergänzungen für Ihr Zuhause. Sie sorgen für eine angenehme Atmosphäre und sind eine wunderbare Bereicherung für Ihre Einrichtung. Außenleuchten können an der Fassade angebracht werden oder in den Boden eingelassen werden. Sie sorgen unter Anderem für eine ausreichende Beleuchtung der Außenflächen auf Ihrem Grundstück und sind somit eine wichtige Sicherheitsmaßnahme.",
         "index": {
-            "title": "Außenleuchten - die beste Auswahl für Ihr Zuhause",
-            "metaDescription": "Außenleuchten für Ihr Zuhause - kaufen Sie die besten Außenleuchten bei uns im Shop und sorgen Sie für eine angenehme Beleuchtung in Ihrem Garten oder auf Ihrer Terrasse.",
+            "title": "Außenleuchten - Die beste Auswahl für Ihr Zuhause.",
+            "metaDescription": "Außenleuchten für Ihr Zuhause - Kaufen Sie Außenleuchten bei uns im Shop und sorgen Sie für eine angenehme Beleuchtung in Ihrem Garten oder auf Ihrer Terrasse.",
             "robots": "index, follow",
             "texts": [
                 {
@@ -60,18 +60,18 @@
         },
         "shop": {
             "title": "Außenleuchten Shop",
-            "metaDescription": "Im Shop findest du eine große Auswahl an Außenleuchten für jeden Geschmack. Ob klassisch oder modern, hier wirst du fündig!",
+            "metaDescription": "In unserem Außenleuchten-Shop findest du eine große Auswahl an Außenleuchten für jeden Geschmack. Ob klassisch oder modern, hier wirst du fündig!",
             "robots": "index, follow"
         },
         "hersteller": {
             "title": "Außenleuchten-Hersteller: Die besten Marken für Ihr Zuhause",
-            "metaDescription": "Außenleuchten-Hersteller: Finden Sie die besten Außenleuchten-Hersteller und -Lieferanten in China. Wir produzieren hochwertige Außenleuchten in unserer Fabrik.",
+            "metaDescription": "Auflistung aller Hersteller und Produkte für Außenleuchten wie AEG, Abus, Philips, Telefunken, OBI, Brilliant, Mr. Beams uvw. ",
             "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "Außenleuchten: $PRODUKT",
-        "defaultMetaDescription": "Außenleuchten von $HERSTELLER in großer Auswahl für jeden Bedarf. Ob für die Beleuchtung von $KATEGORIE oder anderen Bereichen, bei uns finden Sie die richtige Außenleuchte.",
+        "defaultTitle": "$PRODUKT günstig bestellen",
+        "defaultMetaDescription": "$PRODUKT von $HERSTELLER günstig in unserem Online Shop kaufen. Wir haben das Produkt aus der Kategorie $KATEGORIE getestet.",
         "defaultRobots": "index, follow",
         "products": [
             {
@@ -86,8 +86,8 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "Außenleuchten: $KATEGORIE für jeden Anlass",
-        "defaultMetaDescription": "Außenleuchten für jeden Geschmack: Finden Sie Ihre neue Lieblingsleuchte für den Außenbereich in unserer $KATEGORIE. Jetzt stöbern!",
+        "defaultTitle": "$KATEGORIE | Shop",
+        "defaultMetaDescription": "Die besten $KATEGORIE finden und günstig online kaufen. Wir bieten die besten Preise für $KATEGORIE. Qualitative Produkte und schneller Versand.",
         "defaultRobots": "index, follow",
         "categories": [
             {
@@ -113,8 +113,8 @@
         ]
     },
     "brandSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "Außenleuchten von $HERSTELLER sorgen für eine angenehme Beleuchtung im Freien. Ob für die Terrasse, den Garten oder den Eingangsbereich - hier findest du die passende Lampe.",
+        "defaultTitle": "Leuchtmittel von $HERSTELLER",
+        "defaultMetaDescription": "Außenleuchten von $HERSTELLER sorgen für eine angenehme Beleuchtung. Ob für Terrassen, Gärten oder den Eingangsbereich - hier finden Sie passende Lampen.",
         "defaultRobots": "index, follow",
         "brands": [
             {
