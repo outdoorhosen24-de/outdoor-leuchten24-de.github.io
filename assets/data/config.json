@@ -51,12 +51,15 @@
             "title": "Außenleuchten - Die beste Auswahl für Ihr Zuhause.",
             "metaDescription": "Außenleuchten für Ihr Zuhause - Kaufen Sie Außenleuchten bei uns im Shop und sorgen Sie für eine angenehme Beleuchtung in Ihrem Garten oder auf Ihrer Terrasse.",
             "robots": "index, follow",
-            "texts": [
-                {
-                    "title": "Außenleuchten",
-                    "text": "Außenleuchten sind ein wesentlicher Bestandteil der Beleuchtung von Gebäuden. Sie sorgen für eine ausreichende Beleuchtung der Außenflächen und sind somit eine wichtige Sicherheitsmaßnahme. Außenleuchten können an der Fassade angebracht werden oder in den Boden eingelassen werden. Sie sorgen für eine ausreichende Beleuchtung der Außenflächen und sind somit eine wichtige Sicherheitsmaßnahme."
-                }
-            ]
+            "seotext": {
+                "published": false,
+                "content": [
+                    {
+                        "title": "Außenleuchten",
+                        "text": "Außenleuchten sind ein wesentlicher Bestandteil der Beleuchtung von Gebäuden. Sie sorgen für eine ausreichende Beleuchtung der Außenflächen und sind somit eine wichtige Sicherheitsmaßnahme. Außenleuchten können an der Fassade angebracht werden oder in den Boden eingelassen werden. Sie sorgen für eine ausreichende Beleuchtung der Außenflächen und sind somit eine wichtige Sicherheitsmaßnahme."
+                    }
+                ]
+            }
         },
         "shop": {
             "title": "Außenleuchten Shop",
