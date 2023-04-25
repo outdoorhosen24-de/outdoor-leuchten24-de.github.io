@@ -1,256 +1,259 @@
 {
-    "configIsReady": true,
-    "domain": "outdoor-leuchten24.de",
-    "hostname": "https://www.outdoor-leuchten24.de/",
-    "email": "outdoor-leuchten24.de@surrealnetworks.io",
-    "organization": "outdoor-leuchten24.de",
-    "logoText": "Outdoor-leuchten24.de",
-    "title": "Shop für Außenleuchten",
-    "subline": "Der Online Shop für Außenleuchten",
-    "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
-    "imageFolder": "/assets/images/images/",
-    "productUrl": "/produkt/",
-    "kategorieUrl": "/kategorie/",
-    "numberOfProductsOnStartpage": 18,
-    "numberMaximumProductsPerCategory": 100,
-    "numberOfRelevantProduct": 12,
-    "popularProducts": [
-        "1109362",
-        "2803260",
-        "2158996",
-        "8951576",
-        "7150824",
-        "6488241"
-    ],
-    "winnerProducts": [
-        "2817781",
-        "6221568",
-        "8113987"
-    ],
-    "featuredCategories": [
-        "Solar-Deko",
-        "Außenbeleuchtungssysteme",
-        "Solar-Hausnummern",
-        "Außen-Dekoleuchten",
-        "Außendeckenleuchten",
-        "Solar-Kugeln"
-    ],
-    "socialMediaAccounts": [],
-    "imageQuality": 90,
-    "checklist": [
-        "Material",
-        "Komfort",
-        "Funktion",
-        "Haltbarkeit"
-    ],
-    "seo": {
-        "htmlLang": "de",
-        "mainKeyword": "Außenleuchten",
-        "featureText": "Außenleuchten sind die perfekte Ergänzungen für Ihr Zuhause. Sie sorgen für eine angenehme Atmosphäre und sind eine wunderbare Bereicherung für Ihre Einrichtung. Außenleuchten können an der Fassade angebracht werden oder in den Boden eingelassen werden. Sie sorgen unter Anderem für eine ausreichende Beleuchtung der Außenflächen auf Ihrem Grundstück und sind somit eine wichtige Sicherheitsmaßnahme.",
-        "index": {
-            "title": "Außenleuchten - Die beste Auswahl für Ihr Zuhause.",
-            "metaDescription": "Außenleuchten für Ihr Zuhause - Kaufen Sie Außenleuchten bei uns im Shop und sorgen Sie für eine angenehme Beleuchtung in Ihrem Garten oder auf Ihrer Terrasse.",
-            "robots": "index, follow",
-            "seotext": {
-                "published": true,
-                "content": [
-                    {
-                        "title": "Willkommen bei Outdoor-Leuchten24",
-                        "text": "Herzlich Willkommen auf Outdoor-Leuchten24, Ihrem Online-Shop für hochwertige Außenleuchten. Unser Sortiment bietet Ihnen eine große Auswahl an verschiedenen Leuchten für den Außenbereich, von Solarleuchten bis hin zu Außenwandleuchten und Hausnummernleuchten. Wir legen großen Wert auf Qualität und Funktionalität unserer Produkte, damit Sie lange Freude an Ihrer Außenbeleuchtung haben. In unserer Kategorie Zubehör für Außenleuchten finden Sie alles, was Sie für die Installation Ihrer Leuchten benötigen. Bewegungsmelder sorgen für eine automatische Beleuchtung bei Bewegung und Solarleuchten nutzen die Energie der Sonne, um Ihren Garten, Ihre Terrasse oder Ihre Einfahrt zu beleuchten. Auch in der Kategorie Solar-Deko finden Sie eine große Auswahl an dekorativen Leuchten, die Sie ganz einfach und ohne Stromanschluss installieren können.Gartenstrahler, Solar-Lichterketten, Außen-Dekoleuchten und Bodeneinbaustrahler sorgen für eine stilvolle Beleuchtung Ihres Gartens. Solar-Wegeleuchten und Außenwandleuchten sorgen für Sicherheit auf Ihrem Grundstück, während Solar-Laternen und Wegeleuchten für eine gemütliche Atmosphäre sorgen. Außerdem bieten wir Ihnen eine große Auswahl an Außenbeleuchtungssystemen und Stromverteilung für den Außenbereich.Sockelleuchten, Außenstrahler, Hausnummernleuchten und Solar-Kugeln sind nur einige der Produkte, die Sie in unserem Shop finden. Auch für die Beleuchtung Ihrer Decke bieten wir eine große Auswahl an Außendeckenleuchten und Kandelabern & Mastleuchten. Mit Solar-Bodenstrahlern und Solar-Hausnummern können Sie Ihr Grundstück ganz einfach und stilvoll beleuchten.Wir hoffen, dass Sie bei uns die perfekte Außenleuchte für Ihr Zuhause finden und freuen uns auf Ihre Bestellung. Bei Fragen stehen wir Ihnen jederzeit zur Verfügung."
-                    },
-                    {
-                        "title": "Zubehör für Außenleuchten",
-                        "text": "Unser Online-Shop bietet eine große Auswahl an <a href=\"/kategorie/zubehoer-fuer-aussenleuchten/\" title=\"Zubehör für Aussenleuchten\">Zubehör für Aussenleuchten</a>. Hier finden Sie alles, was Sie benötigen, um Ihre Außenleuchten in Topform zu halten. Von Ersatzteilen bis hin zu Zubehör wie Bewegungsmeldern und Solarleuchten, um Ihre Außenleuchten noch effizienter und praktischer zu machen."
-                    },
-                    {
-                        "title": "Bewegungsmelder",
-                        "text": "Erhöhen Sie die Sicherheit Ihres Zuhauses mit einem <a href=\"/kategorie/bewegungsmelder/\" title=\"Bewegungsmelder\">Bewegungsmelder</a> von unserem Online-Shop. Wir bieten eine breite Auswahl an Bewegungsmeldern, die einfach zu installieren sind und Ihnen helfen, Energie zu sparen. Stöbern Sie jetzt in unserem Sortiment und finden Sie den Bewegungsmelder, der perfekt zu Ihren Anforderungen passt."
-                    },
-                    {
-                        "title": "Solarleuchten",
-                        "text": "Machen Sie Ihr Zuhause noch grüner und umweltfreundlicher mit <a href=\"/kategorie/solarleuchten/\" title=\"Solarleuchten\">Solarleuchten</a> aus unserem Online-Shop. Unsere Solarleuchten sind einfach zu installieren, energieeffizient und kosteneffektiv. Wählen Sie aus einer Vielzahl von Stilen und Designs, um das perfekte Solarleuchten-Set für Ihr Zuhause zu finden."
-                    },
-                    {
-                        "title": "Solar-Deko",
-                        "text": "Bringen Sie Stil und Farbe in Ihren Garten mit <a href=\"/kategorie/solar-deko/\" title=\"Solar-Deko\">Solar-Deko</a> aus unserem Online-Shop. Unsere Solar-Deko-Produkte sind energieeffizient und einfach zu installieren. Wählen Sie aus einer Vielzahl von Designs und Stilen, um das perfekte Solar-Deko-Set für Ihren Garten zu finden. Schmücken Sie Ihren Garten mit Solar-Deko und genießen Sie das ganze Jahr über eine wunderschöne Beleuchtung."
-                    },
-                    {
-                        "title": "Gartenstrahler",
-                        "text": "Beleuchten Sie Ihren Garten mit <a href=\"/kategorie/gartenstrahler/\" title=\"Gartenstrahler\">Gartenstrahler</a>n aus unserem Online-Shop. Unsere Gartenstrahler sind langlebig, robust und einfach zu installieren. Wählen Sie aus einer Vielzahl von Stilen und Designs, um den perfekten Gartenstrahler für Ihren Garten zu finden. Mit Gartenstrahlern können Sie Ihren Garten abends in ein wunderschönes Licht tauchen."
-                    },
-                    {
-                        "title": "Solar-Lichterketten",
-                        "text": "Schmücken Sie Ihren Garten mit <a href=\"/kategorie/solar-lichterketten/\" title=\"Solar-Lichterketten\">Solar-Lichterketten</a> aus unserem Online-Shop. Unsere Solar-Lichterketten sind energieeffizient und einfach zu installieren. Wählen Sie aus einer Vielzahl von Designs und Längen, um die perfekte Solar-Lichterkette für Ihren Garten zu finden. Mit Solar-Lichterketten können Sie Ihren Garten jederzeit in ein romantisches Licht tauchen."
-                    },
-                    {
-                        "title": "Außen-Dekoleuchten",
-                        "text": "Schmücken Sie Ihren Garten mit <a href=\"/kategorie/aussen-dekoleuchten/\" title=\"Aussen-Dekoleuchten\">Aussen-Dekoleuchten</a> aus unserem Online-Shop. Unsere Außen-Dekoleuchten sind robust, langlebig und einfach zu installieren. Wählen Sie aus einer Vielzahl von Stilen und Designs, um die perfekte Außen-Dekoleuchte für Ihren Garten zu finden. Mit Außen-Dekoleuchten können Sie Ihren Garten in ein wunderschönes Licht tauchen."
-                    },
-                    {
-                        "title": "Bodeneinbaustrahler",
-                        "text": "Erhellen Sie Ihren Garten mit <a href=\"/kategorie/bodeneinbaustrahler/\" title=\"Bodeneinbaustrahler\">Bodeneinbaustrahler</a>n aus unserem Online-Shop. Unsere Bodeneinbaustrahler sind robust, langlebig und einfach zu installieren. Wählen Sie aus einer Vielzahl von Stilen und Designs, um den perfekten Bodeneinbaustrahler für Ihren Garten zu finden. Mit Bodeneinbaustrahlern können Sie Ihren Garten abends in ein warmes und einladendes Licht tauchen."
-                    },
-                    {
-                        "title": "Solar-Wegeleuchten",
-                        "text": "Beleuchten Sie Ihre Wege sicher mit <a href=\"/kategorie/solar-wegeleuchten/\" title=\"Solar-Wegeleuchten\">Solar-Wegeleuchten</a> aus unserem Online-Shop. Unsere Solar-Wegeleuchten sind energieeffizient, kosteneffektiv und einfach zu installieren. Wählen Sie aus einer Vielzahl von Stilen und Designs, um die perfekte Solar-Wegeleuchte für Ihren Garten zu finden. Mit Solar-Wegeleuchten können Sie Ihre Wege sicher und stilvoll beleuchten."
-                    },
-                    {
-                        "title": "Außenwandleuchten",
-                        "text": "Beleuchten Sie Ihr Zuhause mit <a href=\"/kategorie/aussenwandleuchten/\" title=\"Aussenwandleuchten\">Aussenwandleuchten</a> aus unserem Online-Shop. Unsere Außenwandleuchten sind robust, langlebig und einfach zu installieren. Wählen Sie aus einer Vielzahl von Stilen und Designs, um die perfekte Außenwandleuchte für Ihr Zuhause zu finden. Mit Außenwandleuchten können Sie Ihr Zuhause sicher und stilvoll beleuchten."
-                    },
-                    {
-                        "title": "Solar-Wandleuchten",
-                        "text": "Beleuchten Sie Ihr Zuhause umweltfreundlich mit <a href=\"/kategorie/solar-wandleuchten/\" title=\"Solar-Wandleuchten\">Solar-Wandleuchten</a> aus unserem Online-Shop. Unsere Solar-Wandleuchten sind energieeffizient, kosteneffektiv und einfach zu installieren. Wählen Sie aus einer Vielzahl von Stilen und Designs, um die perfekte Solar-Wandleuchte für Ihr Zuhause zu finden. Mit Solar-Wandleuchten können Sie Ihr Zuhause umweltfreundlich und stilvoll beleuchten."
-                    },
-                    {
-                        "title": "Solar-Laternen",
-                        "text": "Schmücken Sie Ihren Garten mit <a href=\"/kategorie/solar-laternen/\" title=\"Solar-Laternen\">Solar-Laternen</a> aus unserem Online-Shop. Unsere Solar-Laternen sind energieeffizient und einfach zu installieren. Wählen Sie aus einer Vielzahl von Designs und Stilen, um die perfekte Solar-Laterne für Ihren Garten zu finden. Mit Solar-Laternen können Sie Ihren Garten jederzeit in ein warmes und einladendes Licht tauchen."
-                    },
-                    {
-                        "title": "Wegeleuchten",
-                        "text": "Beleuchten Sie Ihre Wege sicher mit <a href=\"/kategorie/wegeleuchten/\" title=\"Wegeleuchten\">Wegeleuchten</a> aus unserem Online-Shop. Unsere Wegeleuchten sind robust, langlebig und einfach zu installieren. Wählen Sie aus einer Vielzahl von Stilen und Designs, um die perfekte Wegeleuchte für Ihren Garten zu finden. Mit Wegeleuchten können Sie Ihre Wege sicher und stilvoll beleuchten."
-                    },
-                    {
-                        "title": "Außenbeleuchtungssysteme",
-                        "text": "Beleuchten Sie Ihren Garten mit <a href=\"/kategorie/aussenbeleuchtungssysteme/\" title=\"Aussenbeleuchtungssysteme\">Aussenbeleuchtungssysteme</a>n aus unserem Online-Shop. Unsere Außenbeleuchtungssysteme sind robust, langlebig und einfach zu installieren. Wählen Sie aus einer Vielzahl von Stilen und Designs, um das perfekte Außenbeleuchtungssystem für Ihren Garten zu finden. Mit Außenbeleuchtungssystemen können Sie Ihren Garten abends in ein warmes und einladendes Licht tauchen."
-                    },
-                    {
-                        "title": "Stromverteilung Außenbereich",
-                        "text": "Verteilen Sie Strom sicher im Außenbereich mit Stromverteilungssystemen aus unserem Online-Shop. Unsere Stromverteilungssysteme sind robust, langlebig und einfach zu installieren. Wählen Sie aus einer Vielzahl von Stilen und Designs, um das perfekte Stromverteilungssystem für Ihren Außenbereich zu finden. Mit Stromverteilungssystemen können Sie Strom im Außenbereich sicher und zuverlässig verteilen."
-                    },
-                    {
-                        "title": "Sockelleuchten",
-                        "text": "Beleuchten Sie Ihren Garten oder Ihre Terrasse mit <a href=\"/kategorie/sockelleuchten/\" title=\"Sockelleuchten\">Sockelleuchten</a> aus unserem Online-Shop. Unsere Sockelleuchten sind robust, langlebig und einfach zu installieren. Wählen Sie aus einer Vielzahl von Stilen und Designs, um die perfekte Sockelleuchte für Ihren Außenbereich zu finden. Mit Sockelleuchten können Sie Ihren Außenbereich sicher und stilvoll beleuchten."
-                    },
-                    {
-                        "title": "Außenstrahler",
-                        "text": "Beleuchten Sie Ihren Garten oder Ihre Terrasse mit <a href=\"/kategorie/aussenstrahler/\" title=\"Aussenstrahler\">Aussenstrahler</a>n aus unserem Online-Shop. Unsere Außenstrahler sind robust, langlebig und einfach zu installieren. Wählen Sie aus einer Vielzahl von Stilen und Designs, um den perfekten Außenstrahler für Ihren Außenbereich zu finden. Mit Außenstrahlern können Sie Ihren Außenbereich stark und stilvoll beleuchten."
-                    },
-                    {
-                        "title": "Hausnummernleuchten",
-                        "text": "Kennzeichnen Sie Ihr Zuhause mit <a href=\"/kategorie/hausnummernleuchten/\" title=\"Hausnummernleuchten\">Hausnummernleuchten</a> aus unserem Online-Shop. Unsere Hausnummernleuchten sind robust, langlebig und einfach zu installieren. Wählen Sie aus einer Vielzahl von Stilen und Designs, um die perfekte Hausnummernleuchte für Ihr Zuhause zu finden. Mit Hausnummernleuchten können Sie Ihr Zuhause stilvoll und gut sichtbar kennzeichnen."
-                    },
-                    {
-                        "title": "Solar-Kugeln",
-                        "text": "Beleuchten Sie Ihren Garten oder Ihre Terrasse mit <a href=\"/kategorie/solar-kugeln/\" title=\"Solar-Kugeln\">Solar-Kugeln</a> aus unserem Online-Shop. Unsere Solar-Kugeln sind energieeffizient, umweltfreundlich und einfach zu installieren. Wählen Sie aus einer Vielzahl von Stilen und Designs, um die perfekte Solar-Kugel für Ihren Außenbereich zu finden. Mit Solar-Kugeln können Sie Ihren Außenbereich kosteneffizient und stilvoll beleuchten."
-                    },
-                    {
-                        "title": "Außendeckenleuchten",
-                        "text": "Beleuchten Sie Ihre Decke im Außenbereich mit <a href=\"/kategorie/aussendeckenleuchten/\" title=\"Aussendeckenleuchten\">Aussendeckenleuchten</a> aus unserem Online-Shop. Unsere Außendeckenleuchten sind robust, langlebig und einfach zu installieren. Wählen Sie aus einer Vielzahl von Stilen und Designs, um die perfekte Außendeckenleuchte für Ihren Außenbereich zu finden. Mit Außendeckenleuchten können Sie Ihre Decke im Außenbereich sicher und stilvoll beleuchten."
-                    },
-                    {
-                        "title": "Kandelaber & Mastleuchten",
-                        "text": "Beleuchten Sie Ihren Garten oder Ihre Terrasse mit Kandelabern & Mastleuchten aus unserem Online-Shop. Unsere <a href=\"/kategorie/kandelaber-mastleuchten/\" title=\"Kandelaber & Mastleuchten\">Kandelaber & Mastleuchten</a> sind robust, langlebig und einfach zu installieren. Wählen Sie aus einer Vielzahl von Stilen und Designs, um die perfekten Kandelaber & Mastleuchten für Ihren Außenbereich zu finden. Mit Kandelabern & Mastleuchten können Sie Ihren Außenbereich stilvoll und elegant beleuchten."
-                    },
-                    {
-                        "title": "Solar-Bodenstrahler",
-                        "text": "Beleuchten Sie Ihren Garten oder Ihre Terrasse mit <a href=\"/kategorie/solar-bodenstrahler/\" title=\"Solar-Bodenstrahler\">Solar-Bodenstrahler</a>n aus unserem Online-Shop. Unsere Solar-Bodenstrahler sind energieeffizient, umweltfreundlich und einfach zu installieren. Wählen Sie aus einer Vielzahl von Stilen und Designs, um die perfekten Solar-Bodenstrahler für Ihren Außenbereich zu finden. Mit Solar-Bodenstrahlern können Sie Ihren Außenbereich kosteneffizient und stilvoll beleuchten."
-                    },
-                    {
-                        "title": "Solar-Hausnummern",
-                        "text": "Kennzeichnen Sie Ihr Zuhause mit <a href=\"/kategorie/solar-hausnummern/\" title=\"Solar-Hausnummern\">Solar-Hausnummern</a> aus unserem Online-Shop. Unsere Solar-Hausnummern sind energieeffizient, umweltfreundlich und einfach zu installieren. Wählen Sie aus einer Vielzahl von Stilen und Designs, um die perfekte Solar-Hausnummer für Ihr Zuhause zu finden. Mit Solar-Hausnummern können Sie Ihr Zuhause kosteneffizient und stilvoll kennzeichnen."
-                    }
-                ]
-            }
-        },
-        "shop": {
-            "title": "Außenleuchten Shop",
-            "metaDescription": "In unserem Außenleuchten-Shop findest du eine große Auswahl an Außenleuchten für jeden Geschmack. Ob klassisch oder modern, hier wirst du fündig!",
-            "robots": "index, follow"
-        },
-        "hersteller": {
-            "title": "Außenleuchten-Hersteller: Die besten Marken für Ihr Zuhause",
-            "metaDescription": "Auflistung aller Hersteller und Produkte für Außenleuchten wie AEG, Abus, Philips, Telefunken, OBI, Brilliant, Mr. Beams uvw. ",
-            "robots": "index, follow"
-        }
-    },
-    "productSeo": {
-        "defaultTitle": "$PRODUKT günstig bestellen",
-        "defaultMetaDescription": "$PRODUKT von $HERSTELLER günstig in unserem Online Shop kaufen. Wir haben das Produkt aus der Kategorie $KATEGORIE getestet.",
-        "defaultRobots": "index, follow",
-        "products": [
-            {
-                "sku": "5637909794",
-                "name": "Ortovox PALA PANTS Kletterhose",
-                "seo": {
-                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
-                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
-                    "robots": "index, follow"
-                }
-            }
+  "configIsReady": true,
+  "domain": "outdoor-leuchten24.de",
+  "hostname": "https://www.outdoor-leuchten24.de/",
+  "email": "outdoor-leuchten24.de@surrealnetworks.io",
+  "organization": "outdoor-leuchten24.de",
+  "logoText": "Outdoor-leuchten24.de",
+  "title": "Shop f\u00fcr Au\u00dfenleuchten",
+  "subline": "Der Online Shop f\u00fcr Au\u00dfenleuchten",
+  "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
+  "imageFolder": "/assets/images/images/",
+  "productUrl": "/produkt/",
+  "kategorieUrl": "/kategorie/",
+  "numberOfProductsOnStartpage": 18,
+  "numberMaximumProductsPerCategory": 100,
+  "numberOfRelevantProduct": 12,
+  "popularProducts": [
+    "1109362",
+    "2803260",
+    "2158996",
+    "8951576",
+    "7150824",
+    "6488241"
+  ],
+  "winnerProducts": [
+    "2817781",
+    "6221568",
+    "8113987"
+  ],
+  "featuredCategories": [
+    "Solar-Deko",
+    "Au\u00dfenbeleuchtungssysteme",
+    "Solar-Hausnummern",
+    "Au\u00dfen-Dekoleuchten",
+    "Au\u00dfendeckenleuchten",
+    "Solar-Kugeln"
+  ],
+  "socialMediaAccounts": [],
+  "imageQuality": 90,
+  "checklist": [
+    "Material",
+    "Komfort",
+    "Funktion",
+    "Haltbarkeit"
+  ],
+  "seo": {
+    "htmlLang": "de",
+    "mainKeyword": "Au\u00dfenleuchten",
+    "featureText": "Au\u00dfenleuchten sind die perfekte Erg\u00e4nzungen f\u00fcr Ihr Zuhause. Sie sorgen f\u00fcr eine angenehme Atmosph\u00e4re und sind eine wunderbare Bereicherung f\u00fcr Ihre Einrichtung. Au\u00dfenleuchten k\u00f6nnen an der Fassade angebracht werden oder in den Boden eingelassen werden. Sie sorgen unter Anderem f\u00fcr eine ausreichende Beleuchtung der Au\u00dfenfl\u00e4chen auf Ihrem Grundst\u00fcck und sind somit eine wichtige Sicherheitsma\u00dfnahme.",
+    "index": {
+      "title": "Au\u00dfenleuchten - Die beste Auswahl f\u00fcr Ihr Zuhause.",
+      "metaDescription": "Au\u00dfenleuchten f\u00fcr Ihr Zuhause - Kaufen Sie Au\u00dfenleuchten bei uns im Shop und sorgen Sie f\u00fcr eine angenehme Beleuchtung in Ihrem Garten oder auf Ihrer Terrasse.",
+      "robots": "index, follow",
+      "seotext": {
+        "published": true,
+        "content": [
+          {
+            "title": "Willkommen bei Outdoor-Leuchten24",
+            "text": "Herzlich Willkommen auf Outdoor-Leuchten24, Ihrem Online-Shop f\u00fcr hochwertige Au\u00dfenleuchten. Unser Sortiment bietet Ihnen eine gro\u00dfe Auswahl an verschiedenen Leuchten f\u00fcr den Au\u00dfenbereich, von Solarleuchten bis hin zu Au\u00dfenwandleuchten und Hausnummernleuchten. Wir legen gro\u00dfen Wert auf Qualit\u00e4t und Funktionalit\u00e4t unserer Produkte, damit Sie lange Freude an Ihrer Au\u00dfenbeleuchtung haben. In unserer Kategorie Zubeh\u00f6r f\u00fcr Au\u00dfenleuchten finden Sie alles, was Sie f\u00fcr die Installation Ihrer Leuchten ben\u00f6tigen. Bewegungsmelder sorgen f\u00fcr eine automatische Beleuchtung bei Bewegung und Solarleuchten nutzen die Energie der Sonne, um Ihren Garten, Ihre Terrasse oder Ihre Einfahrt zu beleuchten. Auch in der Kategorie Solar-Deko finden Sie eine gro\u00dfe Auswahl an dekorativen Leuchten, die Sie ganz einfach und ohne Stromanschluss installieren k\u00f6nnen.Gartenstrahler, Solar-Lichterketten, Au\u00dfen-Dekoleuchten und Bodeneinbaustrahler sorgen f\u00fcr eine stilvolle Beleuchtung Ihres Gartens. Solar-Wegeleuchten und Au\u00dfenwandleuchten sorgen f\u00fcr Sicherheit auf Ihrem Grundst\u00fcck, w\u00e4hrend Solar-Laternen und Wegeleuchten f\u00fcr eine gem\u00fctliche Atmosph\u00e4re sorgen. Au\u00dferdem bieten wir Ihnen eine gro\u00dfe Auswahl an Au\u00dfenbeleuchtungssystemen und Stromverteilung f\u00fcr den Au\u00dfenbereich.Sockelleuchten, Au\u00dfenstrahler, Hausnummernleuchten und Solar-Kugeln sind nur einige der Produkte, die Sie in unserem Shop finden. Auch f\u00fcr die Beleuchtung Ihrer Decke bieten wir eine gro\u00dfe Auswahl an Au\u00dfendeckenleuchten und Kandelabern & Mastleuchten. Mit Solar-Bodenstrahlern und Solar-Hausnummern k\u00f6nnen Sie Ihr Grundst\u00fcck ganz einfach und stilvoll beleuchten.Wir hoffen, dass Sie bei uns die perfekte Au\u00dfenleuchte f\u00fcr Ihr Zuhause finden und freuen uns auf Ihre Bestellung. Bei Fragen stehen wir Ihnen jederzeit zur Verf\u00fcgung."
+          },
+          {
+            "title": "Zubeh\u00f6r f\u00fcr Au\u00dfenleuchten",
+            "text": "Unser Online-Shop bietet eine gro\u00dfe Auswahl an <a href=\"/kategorie/zubehoer-fuer-aussenleuchten/\" title=\"Zubeh\u00f6r f\u00fcr Aussenleuchten\">Zubeh\u00f6r f\u00fcr Aussenleuchten</a>. Hier finden Sie alles, was Sie ben\u00f6tigen, um Ihre Au\u00dfenleuchten in Topform zu halten. Von Ersatzteilen bis hin zu Zubeh\u00f6r wie Bewegungsmeldern und Solarleuchten, um Ihre Au\u00dfenleuchten noch effizienter und praktischer zu machen."
+          },
+          {
+            "title": "Bewegungsmelder",
+            "text": "Erh\u00f6hen Sie die Sicherheit Ihres Zuhauses mit einem <a href=\"/kategorie/bewegungsmelder/\" title=\"Bewegungsmelder\">Bewegungsmelder</a> von unserem Online-Shop. Wir bieten eine breite Auswahl an Bewegungsmeldern, die einfach zu installieren sind und Ihnen helfen, Energie zu sparen. St\u00f6bern Sie jetzt in unserem Sortiment und finden Sie den Bewegungsmelder, der perfekt zu Ihren Anforderungen passt."
+          },
+          {
+            "title": "Solarleuchten",
+            "text": "Machen Sie Ihr Zuhause noch gr\u00fcner und umweltfreundlicher mit <a href=\"/kategorie/solarleuchten/\" title=\"Solarleuchten\">Solarleuchten</a> aus unserem Online-Shop. Unsere Solarleuchten sind einfach zu installieren, energieeffizient und kosteneffektiv. W\u00e4hlen Sie aus einer Vielzahl von Stilen und Designs, um das perfekte Solarleuchten-Set f\u00fcr Ihr Zuhause zu finden."
+          },
+          {
+            "title": "Solar-Deko",
+            "text": "Bringen Sie Stil und Farbe in Ihren Garten mit <a href=\"/kategorie/solar-deko/\" title=\"Solar-Deko\">Solar-Deko</a> aus unserem Online-Shop. Unsere Solar-Deko-Produkte sind energieeffizient und einfach zu installieren. W\u00e4hlen Sie aus einer Vielzahl von Designs und Stilen, um das perfekte Solar-Deko-Set f\u00fcr Ihren Garten zu finden. Schm\u00fccken Sie Ihren Garten mit Solar-Deko und genie\u00dfen Sie das ganze Jahr \u00fcber eine wundersch\u00f6ne Beleuchtung."
+          },
+          {
+            "title": "Gartenstrahler",
+            "text": "Beleuchten Sie Ihren Garten mit <a href=\"/kategorie/gartenstrahler/\" title=\"Gartenstrahler\">Gartenstrahler</a>n aus unserem Online-Shop. Unsere Gartenstrahler sind langlebig, robust und einfach zu installieren. W\u00e4hlen Sie aus einer Vielzahl von Stilen und Designs, um den perfekten Gartenstrahler f\u00fcr Ihren Garten zu finden. Mit Gartenstrahlern k\u00f6nnen Sie Ihren Garten abends in ein wundersch\u00f6nes Licht tauchen."
+          },
+          {
+            "title": "Solar-Lichterketten",
+            "text": "Schm\u00fccken Sie Ihren Garten mit <a href=\"/kategorie/solar-lichterketten/\" title=\"Solar-Lichterketten\">Solar-Lichterketten</a> aus unserem Online-Shop. Unsere Solar-Lichterketten sind energieeffizient und einfach zu installieren. W\u00e4hlen Sie aus einer Vielzahl von Designs und L\u00e4ngen, um die perfekte Solar-Lichterkette f\u00fcr Ihren Garten zu finden. Mit Solar-Lichterketten k\u00f6nnen Sie Ihren Garten jederzeit in ein romantisches Licht tauchen."
+          },
+          {
+            "title": "Au\u00dfen-Dekoleuchten",
+            "text": "Schm\u00fccken Sie Ihren Garten mit <a href=\"/kategorie/aussen-dekoleuchten/\" title=\"Aussen-Dekoleuchten\">Aussen-Dekoleuchten</a> aus unserem Online-Shop. Unsere Au\u00dfen-Dekoleuchten sind robust, langlebig und einfach zu installieren. W\u00e4hlen Sie aus einer Vielzahl von Stilen und Designs, um die perfekte Au\u00dfen-Dekoleuchte f\u00fcr Ihren Garten zu finden. Mit Au\u00dfen-Dekoleuchten k\u00f6nnen Sie Ihren Garten in ein wundersch\u00f6nes Licht tauchen."
+          },
+          {
+            "title": "Bodeneinbaustrahler",
+            "text": "Erhellen Sie Ihren Garten mit <a href=\"/kategorie/bodeneinbaustrahler/\" title=\"Bodeneinbaustrahler\">Bodeneinbaustrahler</a>n aus unserem Online-Shop. Unsere Bodeneinbaustrahler sind robust, langlebig und einfach zu installieren. W\u00e4hlen Sie aus einer Vielzahl von Stilen und Designs, um den perfekten Bodeneinbaustrahler f\u00fcr Ihren Garten zu finden. Mit Bodeneinbaustrahlern k\u00f6nnen Sie Ihren Garten abends in ein warmes und einladendes Licht tauchen."
+          },
+          {
+            "title": "Solar-Wegeleuchten",
+            "text": "Beleuchten Sie Ihre Wege sicher mit <a href=\"/kategorie/solar-wegeleuchten/\" title=\"Solar-Wegeleuchten\">Solar-Wegeleuchten</a> aus unserem Online-Shop. Unsere Solar-Wegeleuchten sind energieeffizient, kosteneffektiv und einfach zu installieren. W\u00e4hlen Sie aus einer Vielzahl von Stilen und Designs, um die perfekte Solar-Wegeleuchte f\u00fcr Ihren Garten zu finden. Mit Solar-Wegeleuchten k\u00f6nnen Sie Ihre Wege sicher und stilvoll beleuchten."
+          },
+          {
+            "title": "Au\u00dfenwandleuchten",
+            "text": "Beleuchten Sie Ihr Zuhause mit <a href=\"/kategorie/aussenwandleuchten/\" title=\"Aussenwandleuchten\">Aussenwandleuchten</a> aus unserem Online-Shop. Unsere Au\u00dfenwandleuchten sind robust, langlebig und einfach zu installieren. W\u00e4hlen Sie aus einer Vielzahl von Stilen und Designs, um die perfekte Au\u00dfenwandleuchte f\u00fcr Ihr Zuhause zu finden. Mit Au\u00dfenwandleuchten k\u00f6nnen Sie Ihr Zuhause sicher und stilvoll beleuchten."
+          },
+          {
+            "title": "Solar-Wandleuchten",
+            "text": "Beleuchten Sie Ihr Zuhause umweltfreundlich mit <a href=\"/kategorie/solar-wandleuchten/\" title=\"Solar-Wandleuchten\">Solar-Wandleuchten</a> aus unserem Online-Shop. Unsere Solar-Wandleuchten sind energieeffizient, kosteneffektiv und einfach zu installieren. W\u00e4hlen Sie aus einer Vielzahl von Stilen und Designs, um die perfekte Solar-Wandleuchte f\u00fcr Ihr Zuhause zu finden. Mit Solar-Wandleuchten k\u00f6nnen Sie Ihr Zuhause umweltfreundlich und stilvoll beleuchten."
+          },
+          {
+            "title": "Solar-Laternen",
+            "text": "Schm\u00fccken Sie Ihren Garten mit <a href=\"/kategorie/solar-laternen/\" title=\"Solar-Laternen\">Solar-Laternen</a> aus unserem Online-Shop. Unsere Solar-Laternen sind energieeffizient und einfach zu installieren. W\u00e4hlen Sie aus einer Vielzahl von Designs und Stilen, um die perfekte Solar-Laterne f\u00fcr Ihren Garten zu finden. Mit Solar-Laternen k\u00f6nnen Sie Ihren Garten jederzeit in ein warmes und einladendes Licht tauchen."
+          },
+          {
+            "title": "Wegeleuchten",
+            "text": "Beleuchten Sie Ihre Wege sicher mit <a href=\"/kategorie/wegeleuchten/\" title=\"Wegeleuchten\">Wegeleuchten</a> aus unserem Online-Shop. Unsere Wegeleuchten sind robust, langlebig und einfach zu installieren. W\u00e4hlen Sie aus einer Vielzahl von Stilen und Designs, um die perfekte Wegeleuchte f\u00fcr Ihren Garten zu finden. Mit Wegeleuchten k\u00f6nnen Sie Ihre Wege sicher und stilvoll beleuchten."
+          },
+          {
+            "title": "Au\u00dfenbeleuchtungssysteme",
+            "text": "Beleuchten Sie Ihren Garten mit <a href=\"/kategorie/aussenbeleuchtungssysteme/\" title=\"Aussenbeleuchtungssysteme\">Aussenbeleuchtungssysteme</a>n aus unserem Online-Shop. Unsere Au\u00dfenbeleuchtungssysteme sind robust, langlebig und einfach zu installieren. W\u00e4hlen Sie aus einer Vielzahl von Stilen und Designs, um das perfekte Au\u00dfenbeleuchtungssystem f\u00fcr Ihren Garten zu finden. Mit Au\u00dfenbeleuchtungssystemen k\u00f6nnen Sie Ihren Garten abends in ein warmes und einladendes Licht tauchen."
+          },
+          {
+            "title": "Stromverteilung Au\u00dfenbereich",
+            "text": "Verteilen Sie Strom sicher im Au\u00dfenbereich mit Stromverteilungssystemen aus unserem Online-Shop. Unsere Stromverteilungssysteme sind robust, langlebig und einfach zu installieren. W\u00e4hlen Sie aus einer Vielzahl von Stilen und Designs, um das perfekte Stromverteilungssystem f\u00fcr Ihren Au\u00dfenbereich zu finden. Mit Stromverteilungssystemen k\u00f6nnen Sie Strom im Au\u00dfenbereich sicher und zuverl\u00e4ssig verteilen."
+          },
+          {
+            "title": "Sockelleuchten",
+            "text": "Beleuchten Sie Ihren Garten oder Ihre Terrasse mit <a href=\"/kategorie/sockelleuchten/\" title=\"Sockelleuchten\">Sockelleuchten</a> aus unserem Online-Shop. Unsere Sockelleuchten sind robust, langlebig und einfach zu installieren. W\u00e4hlen Sie aus einer Vielzahl von Stilen und Designs, um die perfekte Sockelleuchte f\u00fcr Ihren Au\u00dfenbereich zu finden. Mit Sockelleuchten k\u00f6nnen Sie Ihren Au\u00dfenbereich sicher und stilvoll beleuchten."
+          },
+          {
+            "title": "Au\u00dfenstrahler",
+            "text": "Beleuchten Sie Ihren Garten oder Ihre Terrasse mit <a href=\"/kategorie/aussenstrahler/\" title=\"Aussenstrahler\">Aussenstrahler</a>n aus unserem Online-Shop. Unsere Au\u00dfenstrahler sind robust, langlebig und einfach zu installieren. W\u00e4hlen Sie aus einer Vielzahl von Stilen und Designs, um den perfekten Au\u00dfenstrahler f\u00fcr Ihren Au\u00dfenbereich zu finden. Mit Au\u00dfenstrahlern k\u00f6nnen Sie Ihren Au\u00dfenbereich stark und stilvoll beleuchten."
+          },
+          {
+            "title": "Hausnummernleuchten",
+            "text": "Kennzeichnen Sie Ihr Zuhause mit <a href=\"/kategorie/hausnummernleuchten/\" title=\"Hausnummernleuchten\">Hausnummernleuchten</a> aus unserem Online-Shop. Unsere Hausnummernleuchten sind robust, langlebig und einfach zu installieren. W\u00e4hlen Sie aus einer Vielzahl von Stilen und Designs, um die perfekte Hausnummernleuchte f\u00fcr Ihr Zuhause zu finden. Mit Hausnummernleuchten k\u00f6nnen Sie Ihr Zuhause stilvoll und gut sichtbar kennzeichnen."
+          },
+          {
+            "title": "Solar-Kugeln",
+            "text": "Beleuchten Sie Ihren Garten oder Ihre Terrasse mit <a href=\"/kategorie/solar-kugeln/\" title=\"Solar-Kugeln\">Solar-Kugeln</a> aus unserem Online-Shop. Unsere Solar-Kugeln sind energieeffizient, umweltfreundlich und einfach zu installieren. W\u00e4hlen Sie aus einer Vielzahl von Stilen und Designs, um die perfekte Solar-Kugel f\u00fcr Ihren Au\u00dfenbereich zu finden. Mit Solar-Kugeln k\u00f6nnen Sie Ihren Au\u00dfenbereich kosteneffizient und stilvoll beleuchten."
+          },
+          {
+            "title": "Au\u00dfendeckenleuchten",
+            "text": "Beleuchten Sie Ihre Decke im Au\u00dfenbereich mit <a href=\"/kategorie/aussendeckenleuchten/\" title=\"Aussendeckenleuchten\">Aussendeckenleuchten</a> aus unserem Online-Shop. Unsere Au\u00dfendeckenleuchten sind robust, langlebig und einfach zu installieren. W\u00e4hlen Sie aus einer Vielzahl von Stilen und Designs, um die perfekte Au\u00dfendeckenleuchte f\u00fcr Ihren Au\u00dfenbereich zu finden. Mit Au\u00dfendeckenleuchten k\u00f6nnen Sie Ihre Decke im Au\u00dfenbereich sicher und stilvoll beleuchten."
+          },
+          {
+            "title": "Kandelaber & Mastleuchten",
+            "text": "Beleuchten Sie Ihren Garten oder Ihre Terrasse mit Kandelabern & Mastleuchten aus unserem Online-Shop. Unsere <a href=\"/kategorie/kandelaber-mastleuchten/\" title=\"Kandelaber & Mastleuchten\">Kandelaber & Mastleuchten</a> sind robust, langlebig und einfach zu installieren. W\u00e4hlen Sie aus einer Vielzahl von Stilen und Designs, um die perfekten Kandelaber & Mastleuchten f\u00fcr Ihren Au\u00dfenbereich zu finden. Mit Kandelabern & Mastleuchten k\u00f6nnen Sie Ihren Au\u00dfenbereich stilvoll und elegant beleuchten."
+          },
+          {
+            "title": "Solar-Bodenstrahler",
+            "text": "Beleuchten Sie Ihren Garten oder Ihre Terrasse mit <a href=\"/kategorie/solar-bodenstrahler/\" title=\"Solar-Bodenstrahler\">Solar-Bodenstrahler</a>n aus unserem Online-Shop. Unsere Solar-Bodenstrahler sind energieeffizient, umweltfreundlich und einfach zu installieren. W\u00e4hlen Sie aus einer Vielzahl von Stilen und Designs, um die perfekten Solar-Bodenstrahler f\u00fcr Ihren Au\u00dfenbereich zu finden. Mit Solar-Bodenstrahlern k\u00f6nnen Sie Ihren Au\u00dfenbereich kosteneffizient und stilvoll beleuchten."
+          },
+          {
+            "title": "Solar-Hausnummern",
+            "text": "Kennzeichnen Sie Ihr Zuhause mit <a href=\"/kategorie/solar-hausnummern/\" title=\"Solar-Hausnummern\">Solar-Hausnummern</a> aus unserem Online-Shop. Unsere Solar-Hausnummern sind energieeffizient, umweltfreundlich und einfach zu installieren. W\u00e4hlen Sie aus einer Vielzahl von Stilen und Designs, um die perfekte Solar-Hausnummer f\u00fcr Ihr Zuhause zu finden. Mit Solar-Hausnummern k\u00f6nnen Sie Ihr Zuhause kosteneffizient und stilvoll kennzeichnen."
+          }
         ]
+      }
     },
-    "categorySeo": {
-        "defaultTitle": "$KATEGORIE | Shop",
-        "defaultMetaDescription": "Die besten $KATEGORIE finden und günstig online kaufen. Wir bieten die besten Preise für $KATEGORIE. Qualitative Produkte und schneller Versand.",
-        "defaultRobots": "index, follow",
-        "categories": [
-            {
-                "key": "sporthosen",
-                "slug": "sporthosen",
-                "name": "Sporthosen",
-                "seo": {
-                    "title": "Sporthosen günstig kaufen",
-                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
-                    "robots": "index, follow",
-                    "texts": [
-                        {
-                            "title": "Title of a SEO Text for sporthosen",
-                            "text": "Text of a SEO Text for sporthosen"
-                        },
-                        {
-                            "title": "New title for sporthosen",
-                            "text": "new text for sporthosen"
-                        }
-                    ]
-                }
-            }
-        ]
+    "shop": {
+      "title": "Au\u00dfenleuchten Shop",
+      "metaDescription": "In unserem Au\u00dfenleuchten-Shop findest du eine gro\u00dfe Auswahl an Au\u00dfenleuchten f\u00fcr jeden Geschmack. Ob klassisch oder modern, hier wirst du f\u00fcndig!",
+      "robots": "index, follow"
     },
-    "brandSeo": {
-        "defaultTitle": "Leuchtmittel von $HERSTELLER",
-        "defaultMetaDescription": "Außenleuchten von $HERSTELLER sorgen für eine angenehme Beleuchtung. Ob für Terrassen, Gärten oder den Eingangsbereich - hier finden Sie passende Lampen.",
-        "defaultRobots": "index, follow",
-        "brands": [
-            {
-                "key": "palm",
-                "name": "Palm",
-                "seo": {
-                    "title": "Produkte von Palm günstig kaufen",
-                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
-                    "robots": "index, follow"
-                }
-            }
-        ]
-    },
-    "navigationLinks": [
-        {
-            "title": "Start",
-            "linkTo": "/",
-            "linkTitle": "Außenleuchten",
-            "publish": true
-        },
-        {
-            "title": "Shop",
-            "linkTo": "/shop/",
-            "linkTitle": "Außenleuchten Shop",
-            "publish": true
-        },
-        {
-            "title": "Marken",
-            "linkTo": "/marken/",
-            "linkTitle": "Außenleuchten Marken",
-            "publish": true
-        },
-        {
-            "title": "Kontakt",
-            "linkTo": "/kontakt/",
-            "linkTitle": "Kontakt",
-            "publish": false
-        }
-    ],
-    "ai": {
-        "enabled": true,
-        "engine": 1
+    "hersteller": {
+      "title": "Au\u00dfenleuchten-Hersteller: Die besten Marken f\u00fcr Ihr Zuhause",
+      "metaDescription": "Auflistung aller Hersteller und Produkte f\u00fcr Au\u00dfenleuchten wie AEG, Abus, Philips, Telefunken, OBI, Brilliant, Mr. Beams uvw. ",
+      "robots": "index, follow"
     }
+  },
+  "productSeo": {
+    "defaultTitle": "$PRODUKT g\u00fcnstig bestellen",
+    "defaultMetaDescription": "$PRODUKT von $HERSTELLER g\u00fcnstig in unserem Online Shop kaufen. Wir haben das Produkt aus der Kategorie $KATEGORIE getestet.",
+    "defaultRobots": "index, follow",
+    "products": [
+      {
+        "sku": "5637909794",
+        "name": "Ortovox PALA PANTS Kletterhose",
+        "seo": {
+          "title": "Ortovox PALA PANTS Kletterhose g\u00fcnstig kaufen auf $DOMAIN",
+          "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox g\u00fcnstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+          "robots": "index, follow"
+        }
+      }
+    ]
+  },
+  "categorySeo": {
+    "defaultTitle": "$KATEGORIE | Shop",
+    "defaultMetaDescription": "Die besten $KATEGORIE finden und g\u00fcnstig online kaufen. Wir bieten die besten Preise f\u00fcr $KATEGORIE. Qualitative Produkte und schneller Versand.",
+    "defaultRobots": "index, follow",
+    "categories": [
+      {
+        "key": "sporthosen",
+        "slug": "sporthosen",
+        "name": "Sporthosen",
+        "seo": {
+          "title": "Sporthosen g\u00fcnstig kaufen",
+          "metaDescription": "Alle Sporthosen im \u00dcberblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+          "robots": "index, follow",
+          "texts": [
+            {
+              "title": "Title of a SEO Text for sporthosen",
+              "text": "Text of a SEO Text for sporthosen"
+            },
+            {
+              "title": "New title for sporthosen",
+              "text": "new text for sporthosen"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "brandSeo": {
+    "defaultTitle": "Leuchtmittel von $HERSTELLER",
+    "defaultMetaDescription": "Au\u00dfenleuchten von $HERSTELLER sorgen f\u00fcr eine angenehme Beleuchtung. Ob f\u00fcr Terrassen, G\u00e4rten oder den Eingangsbereich - hier finden Sie passende Lampen.",
+    "defaultRobots": "index, follow",
+    "brands": [
+      {
+        "key": "palm",
+        "name": "Palm",
+        "seo": {
+          "title": "Produkte von Palm g\u00fcnstig kaufen",
+          "metaDescription": "Alle Produkte von Palm im \u00dcberblick. Produkte und Testsieger. Der Hersteller f\u00fcr Outdoor Produkte.",
+          "robots": "index, follow"
+        }
+      }
+    ]
+  },
+  "navigationLinks": [
+    {
+      "title": "Start",
+      "linkTo": "/",
+      "linkTitle": "Au\u00dfenleuchten",
+      "publish": true
+    },
+    {
+      "title": "Shop",
+      "linkTo": "/shop/",
+      "linkTitle": "Au\u00dfenleuchten Shop",
+      "publish": true
+    },
+    {
+      "title": "Marken",
+      "linkTo": "/marken/",
+      "linkTitle": "Au\u00dfenleuchten Marken",
+      "publish": true
+    },
+    {
+      "title": "Kontakt",
+      "linkTo": "/kontakt/",
+      "linkTitle": "Kontakt",
+      "publish": false
+    }
+  ],
+  "ai": {
+    "enabled": true,
+    "engine": 1
+  },
+  "affiliate": {
+    "defaultLink": "https://www.amazon.de/s?k=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer&language=de_DE&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HY8JX8TYKMEK&linkCode=ll2&linkId=4103e81163a8fabcb0fb5d086df92083&sprefix=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer%2Caps%2C115&tag=surrealnetwor-21&ref=as_li_ss_tl"
+  }
 }
